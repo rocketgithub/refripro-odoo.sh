@@ -14,3 +14,6 @@
 	path = importaciones
 	url = https://github.com/rocketgithub/importaciones.git
 	branch = 11.0
+[submodule "refripro"]
+	path = refripro
+	url = git@github.com:rocketgithub/refripro.git
