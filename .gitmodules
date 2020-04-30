@@ -20,3 +20,7 @@
 [submodule "hr_expense_invoice"]
 	path = hr_expense_invoice
 	url = git@github.com:rocketgithub/hr_expense_invoice.git
+[submodule "albaran_analitico"]
+	path = albaran_analitico
+	url = git@github.com:rocketgithub/albaran_analitico.git
+	branch = 10.0
